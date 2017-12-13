@@ -1,7 +1,7 @@
 package com.sist.dao;
 
 import java.util.*;
-
+// 프로젝트확인중
 // DB 의 데이터를 가져오는 부분 DB와 맞게 작성해주어야한다.
 public class BoardVO {
 	private int no;
